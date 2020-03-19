@@ -1,6 +1,6 @@
 This folder contains all data and files necessary to reproduce the analysis section in the study.
 
-DDM/ folder contains all code, fits and convergence check for the different DDM alternatives fitted using HDDM. The joint fit traces files were removed because they are extremely heavy (~30 GB) but code can be run to generate new traces or send an email to gabriel.[first author last name](at)gmail.com
+DDM/ folder contains all code, fits and convergence check for the different DDM alternatives fitted using HDDM. The fit files were removed because they are extremely heavy (~30 GB) but code can be run to generate new traces or send an email to gabriel.[first author last name](at)gmail.com
 
 MixedModels/ contain all code and convergence check for the mixed models used in the study. Fits were remove due to heavy file size, but code can be run to estimate the models.
 
