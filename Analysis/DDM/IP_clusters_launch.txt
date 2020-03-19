@@ -1,0 +1,4 @@
+# Memo to launch parallel estimation for the models 
+conda activate hddm
+ipython profile create --parallel --profile=MS_exp2
+ipcluster start --profile=MS_exp2 --n 32
